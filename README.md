@@ -1,2 +1,2 @@
 # Country-Club-Case-Study
-SQL Case study for Country Club
+SQL Case study for Country Club.
